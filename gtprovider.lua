@@ -1,4 +1,3 @@
-js
 -- ID SETTING
 provider = 928 -- Provider ID
 ItemID = 914 -- dont touch or doesnt drop (These ID is for all chemicals no need change)
